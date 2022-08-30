@@ -13,4 +13,4 @@
 
 ### 2022-08
 - 오브젝트
-  - 참여자: @ssibongee @sanghou @lcm8966 @MoonJiHyun
+  - 참여자: @ssibongee @sanghou @lcm8728 @MoonJiHyun
